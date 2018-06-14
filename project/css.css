@@ -1,0 +1,107 @@
+.body2{
+	font-size: 120%;
+	background: url('Image/pic1.jpg');
+	background-size: 150% 150%;
+}
+.body1{
+	background: url('Image/pic.jpg');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+	width:30%;
+	margin: 50px auto 0px;
+	color:white;	
+	text-align: center;
+	border: none;
+	border-bottom: none;
+	border-radius: none;
+	padding: 20px;
+}
+
+form ,.content{
+	width:30%;
+	margin: 0px auto;
+	padding:20px ;
+	border: none;
+	background:white;
+	border-radius: 0px 0px 10px 10px;
+	
+}
+
+.input-group {
+	margin: 10px 0px 10px 0px;
+	color:white;
+	
+}
+.input-group label {
+		display:block;
+		text-align:left;
+		margin: 3px;
+		
+}
+.input-group input {
+	height:30px;
+	width:93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius:5px;
+	border: 1px solid gray;
+}
+.btn {
+	padding:10px;
+	font-size:15px;
+	color:white;
+	background: none;
+	border:1px solid gray;
+	border-radius: 5px;
+}
+.error{
+	width:92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	background: #f2dede;
+	border-radius:5px;
+	text-align:left;
+	
+}
+.success{
+	color:#3c763d;
+	background:#dff0d8;
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+.reg{
+	
+	margin: 0px 5px 10px 1100px;
+	padding: 0px 0px 0px 0px;
+}
+
+
+a:visited {
+    color: lightblue;
+}
+a:hover {
+    color: 	rgb(60, 60, 60);
+}
+
+
+.cen{
+	margin: 0px 0px 0px 60px;
+	padding: 0px 0px 0px 0px;
+	width: 1000px;
+	height:200px;
+}
+
+.cenp{
+	margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right:  50px;
+    margin-left: 250px;
+	color:LightGray;
+	font-style: oblique;
+	font-weight: bold;
+	
+}
